@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
+| [1920-build-array-from-permutation](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
