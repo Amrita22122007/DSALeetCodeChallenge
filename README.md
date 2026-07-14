@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0069-sqrtx) |
