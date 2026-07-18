@@ -19,20 +19,33 @@ public:
 
         // }
 
-        int n = arr.size();
-        int missingCount = 0;
-        int pointer =0;
-        int current=1;
-        while(missingCount < k){
-            if( pointer<n && arr[pointer]== current){
-                pointer++;
-                current++;
+        // int n = arr.size();
+        // int missingCount = 0;
+        // int pointer =0;
+        // int current=1;
+        // while(missingCount < k){
+        //     if( pointer<n && arr[pointer]== current){
+        //         pointer++;
+        //         current++;
+        //     }
+        //     else{
+        //         missingCount++;
+        //         current++;
+        //     }
+        // }
+        // return current -1;
+
+  
+        int n = arr.size();      
+        for(int i=0; i<n; i++){
+            int totalMissing = arr[i] -(i+1);
+
+            if(totalMissing >= k){
+            return i+k;
             }
-            else{
-                missingCount++;
-                current++;
-            }
-        }
-        return current -1;
+            
+         }
+
+         return n+k;
     }
 };
