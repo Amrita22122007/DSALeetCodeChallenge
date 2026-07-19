@@ -20,7 +20,7 @@ public:
         if(mid*mid==num){
             return true;
         }
-        else if(mid<num/mid){
+        else if(mid*mid<num){
             start = mid+1;
         }
         else{
