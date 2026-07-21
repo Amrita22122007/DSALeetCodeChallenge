@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
