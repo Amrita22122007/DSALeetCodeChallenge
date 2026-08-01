@@ -9,14 +9,7 @@ public:
         if(n==1){
             return nums[0];
         }
-        if(n==2){
-            if(nums[0] > nums[1]){
-                return nums[1];
-            }
-            else{
-                return nums[0];
-            }
-        }
+      
         while(start<=end){
             int mid = start +(end-start)/2;
         if(mid >0 && nums[mid]<nums[mid-1]){
