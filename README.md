@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
