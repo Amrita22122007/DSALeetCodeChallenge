@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
