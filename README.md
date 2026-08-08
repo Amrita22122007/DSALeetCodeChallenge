@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
