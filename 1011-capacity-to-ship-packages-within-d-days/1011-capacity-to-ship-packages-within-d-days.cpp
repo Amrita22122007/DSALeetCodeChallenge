@@ -10,7 +10,7 @@ bool isCapacityPossible(vector<int>& weights,long long  maxCapacity,int days){
        }
        else{
         countDays++;
-        if(countDays>days){
+        if(countDays>days|| weights[i]>maxCapacity){
             return false;
         }
         else{
@@ -25,7 +25,8 @@ bool isCapacityPossible(vector<int>& weights,long long  maxCapacity,int days){
     int shipWithinDays(vector<int>& weights, int days) {
         
         int n=weights.size();
-        long long start=*max_element(weights.begin(), weights.end());
+        long long start=1;
+        // long long start=*max_element(weights.begin(), weights.end());
         long long sum=0;
         for(int i=0;i<n;i++){
             sum+=weights[i];
