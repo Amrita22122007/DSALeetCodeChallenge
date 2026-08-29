@@ -3,11 +3,34 @@ public:
     bool isPossible(vector<int>&piles,int maxSpeed , int h){
         long long totalTime=0;
         int n=piles.size();
+        // for(int i=0;i<n;i++){
+        //     totalTime=totalTime+piles[i]/maxSpeed;
+        //     if(piles[i]%maxSpeed){
+        //         totalTime++;
+        //     }
+        // }
+        // return totalTime<=h;
+        long long counthour = 0;
+
+       
         for(int i=0;i<n;i++){
-            totalTime=totalTime+piles[i]/maxSpeed;
-            if(piles[i]%maxSpeed){
-                totalTime++;
+
+             if(totalTime<=h){
+            if((piles[i]%maxSpeed )==0){
+                counthour = piles[i]/maxSpeed ;
             }
+            else{
+                counthour = piles[i]/maxSpeed ;
+                counthour = counthour+1 ;
+                  
+            }
+             
+             totalTime =  totalTime+counthour;
+          }
+           else{
+            return false;
+           }
+         
         }
         return totalTime<=h;
     }
