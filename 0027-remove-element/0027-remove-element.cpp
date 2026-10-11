@@ -27,11 +27,18 @@ public:
 
         int slow=0   , fast = 0;
         while(fast<n){
-            if(nums[fast]!= val){
-                nums[slow]=nums[fast];
+            // if(nums[fast]!= val){
+            //     nums[slow]=nums[fast];
+            //     slow++;
+            // }
+            // fast++;
+            if(nums[fast]==val){
+                fast++;
+            }else{
+                nums[slow] = nums[fast];
                 slow++;
+                fast++;
             }
-            fast++;
         }
         return slow;
     }
