@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1920-build-array-from-permutation](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0169-majority-element) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Interactive
 |  |
 | ------- |
