@@ -13,9 +13,18 @@ public:
         // }
         // return ans;
 
+        //Better Approach
+        vector<int>prefix(n);
+        prefix[0]=nums[0];
         for(int i=1; i<n; i++){
-            nums[i]=nums[i]+nums[i-1];
+            prefix[i]= prefix[i-1]+nums[i];
         }
-        return nums;
+        return prefix;
+
+
+        // for(int i=1; i<n; i++){
+        //     nums[i]=nums[i]+nums[i-1];
+        // }
+        // return nums;
     }
 };
