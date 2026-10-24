@@ -17,5 +17,9 @@ public:
             }
         }
         return ans;
+
+       
+        //better approach
     }
-};
+};   
+       
