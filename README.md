@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Simulation
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Amrita22122007/DSALeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
